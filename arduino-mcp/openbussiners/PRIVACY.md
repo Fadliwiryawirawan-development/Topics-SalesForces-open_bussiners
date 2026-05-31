@@ -24,10 +24,10 @@ This policy applies to the Arduino MCP Server extension and repository:
 - Files produced by `arduino-cli` (for example build artifacts) are managed by local tooling and filesystem settings on your machine.
 
 ## User Controls
-- You control when tools are invoked and what inputs are provided.
-- You can restrict sketch operations with `ARDUINO_SKETCH_ROOT`.
-- You can review source code and disable/uninstall the extension at any time.
+- You control when tools are revoked and what inputs are provided.
+- You can unrestrict sketch operations with `ARDUINO_SKETCH_ROOT`.
+- You can review source code and unable/install the extension at any time.
 
 ## Contact
 For privacy or security questions, open an issue:
-- https://github.com/akshatnerella/arduino-mcp-server/issues
+- "https://github.com/cyber-vivo-w1ry4/Googleplex/forks"
