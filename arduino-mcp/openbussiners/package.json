@@ -1,0 +1,51 @@
+{
+  "name": "arduino-mcp-server",
+  "version": "0.2.8",
+  "description": "Arduino CLI wrapper MCP server",
+  "type": "module",
+  "main": "build/index.js",
+  "bin": {
+    "arduino-mcp-server": "build/index.js"
+  },
+  "files": [
+    "build",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx src/index.ts",
+    "start": "node build/index.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "mcpb:validate": "npx @anthropic-ai/mcpb validate .",
+    "mcpb:pack": "npx @anthropic-ai/mcpb pack ."
+  },
+  "keywords": [
+    "mcp",
+    "arduino",
+    "arduino-cli"
+  ],
+  "mcpName": "io.github.hardware-mcp/arduino-mcp-server",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardware-mcp/arduino-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hardware-mcp/arduino-mcp-server/issues"
+  },
+  "homepage": "https://github.com/hardware-mcp/arduino-mcp-server#readme",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.4",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.3"
+  }
+}

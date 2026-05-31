@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+arduino-cli.exe
+npm-debug.log*
+*.tsbuildinfo
+.mcpb-build/
+*.mcpb
