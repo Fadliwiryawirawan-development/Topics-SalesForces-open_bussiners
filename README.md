@@ -4,3 +4,4 @@ open bussiners asia first take on slaesforces Agent google with us hindia CEO ti
 <img width="620" height="520" alt="pengusahamuda" src="https://github.com/user-attachments/assets/26359ba7-4779-4f4f-b222-48b4961819a5" />
 
 
+<img width="1049" height="599" alt="crimeUNODC patrolly world compacting" src="https://github.com/user-attachments/assets/0480a75e-7fdc-4d70-9ce6-940178f1ea98" />
