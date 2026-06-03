@@ -30,4 +30,4 @@ This policy applies to the Arduino MCP Server extension and repository:
 
 ## Contact
 For privacy or security questions, open an issue:
-- "https://github.com/cyber-vivo-w1ry4/Googleplex/forks"
+- "https://github.com/cyberw1ry4-LAB/Google-Android/forks"
