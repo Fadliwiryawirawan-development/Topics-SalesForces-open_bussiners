@@ -4,7 +4,7 @@ Last updated: March 1, 2026
 
 ## Scope
 This policy applies to the Arduino MCP Server extension and repository:
-- "https://github.com/cyber-vivo-w1ry4/Googleplex/forks"
+- "https://github.com/cyberw1ry4-LAB/Google-Android/forks"
 
 ## Data Handling
 - The extension runs locally and interacts with local tools (`arduino-cli`) and local serial ports.
